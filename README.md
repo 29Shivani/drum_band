@@ -38,7 +38,7 @@ The project followed these key steps:
 
 **JavaScript Code:** Implemented event listeners to detect button clicks or keyboard presses, triggering the corresponding drum sounds through audio elements.
 
-5. Features and Functionalities
+# Features and Functionalities
 The Drum Kit website included:
 
 A set of buttons representing different drum elements (snare, kick, hi-hat, etc.).
